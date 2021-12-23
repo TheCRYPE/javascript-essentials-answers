@@ -1,4 +1,4 @@
-# JavaScript Essentials
+# JavaScript Essentials Answers
 JavaScript Essentials answers
 
 This repository contains answers to the JavaScript Essentials 1 (JSE) course.
